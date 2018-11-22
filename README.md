@@ -1,6 +1,6 @@
 # Microsoft Windows	
 
-<img src="windows/images/windowslogo.png" width="100">
+<img src="images/windowslogo.png" width="100">
 
 Scripts here can be used to automate or help automate various task on Microsoft Windows Server.
 
