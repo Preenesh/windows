@@ -1,4 +1,6 @@
-# Microsoft Windows ![Microsoft Windows Logo](images/windowslogo.ico)
+# Microsoft Windows 
+
+##![Microsoft Windows Logo](images/windowslogo.ico)
 
 Scripts here can be used to automate or help automate various task on Microsoft Windows Server.
 
