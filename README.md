@@ -1,4 +1,4 @@
-# Microsoft Windows	
+# Microsoft Windows
 
 <img src="images/windowslogo.png" width="100">
 
