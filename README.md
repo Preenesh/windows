@@ -8,6 +8,6 @@ The target audience is someone having experience in supporting and able to run s
 
 ## Scripts
 
-* [Coming Soon](commingsoon.md)
+* [Change CD/DVD Drive Letter using PowerShell](scripts/change-CDDriveLetter.ps1)
 
 > Note All Trademarks and Copyrights belong to their owners and are used for identification only.
